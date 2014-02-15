@@ -3,13 +3,13 @@
 gmaps.js allows you to use the potential of Google Maps in a simple way.
 No more extensive documentation or large amount of code.
 
-GmapsJS, the gem, bundles gmap.js in a easy to use Rails Engine compatible with the Asset Pipeline introduced in Rails 3.1.
+gmapsjs-rails bundles gmaps.js in a easy to use Rails Engine compatible with the Asset Pipeline
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'gmapsjs'
+    gem 'gmapsjs-rails'
 
 And then execute:
 
@@ -17,12 +17,12 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install gmapsjs
+    $ gem install gmapsjs-rails
 
 ## Usage
 
 Add the call for GmapsJS to your manifest file, like:
 
-    //= require gmapsjs
+    //= require gmaps
 
 Read the documentation and examples at: http://hpneo.github.com/gmaps/
