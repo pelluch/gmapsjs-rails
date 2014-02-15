@@ -1,6 +1,6 @@
 # encoding: UTF-8
 # -*- encoding: utf-8 -*-
-require File.expand_path('../lib/gmapsjs/version', __FILE__)
+require File.expand_path('../lib/gmapsjs-rails/version', __FILE__)
 
 Gem::Specification.new do |gem|
   gem.authors       = ["Pablo Lluch"]
