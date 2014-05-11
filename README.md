@@ -3,7 +3,8 @@
 gmaps.js allows you to use the potential of Google Maps in a simple way.
 No more extensive documentation or large amount of code.
 
-gmapsjs-rails bundles gmaps.js in a easy to use Rails Engine compatible with the Asset Pipeline
+gmapsjs-rails bundles gmaps.js in a easy to use Rails Engine compatible with the Asset Pipeline.
+Its version is supposed to reflect the gmaps.js release versions.
 
 ## Installation
 
